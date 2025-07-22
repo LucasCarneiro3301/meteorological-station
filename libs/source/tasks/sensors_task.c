@@ -48,9 +48,9 @@ void vTaskSensors(void *params)
         msg[0] = '\0';  // Zera a string
 
         if (aht10_temperature < minAHT10)
-            strcat(msg, "Temperatura do AHT20 abaixo do limite minimo. ");
+            strcat(msg, "Temperatura do AHT10 abaixo do limite minimo. ");
         else if (aht10_temperature > maxAHT10)
-            strcat(msg, "Temperatura do AHT20 acima do limite maximo. ");
+            strcat(msg, "Temperatura do AHT10 acima do limite maximo. ");
 
         if (bmp280_temperature < minBMP280)
             strcat(msg, "Temperatura do BMP280 abaixo do limite minimo. ");
