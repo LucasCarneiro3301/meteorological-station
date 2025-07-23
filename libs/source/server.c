@@ -20,7 +20,7 @@ const char HTML_BODY[] =  "<!DOCTYPE html>\r\n<html>\r\n<head>\r\n  <meta charse
 
 struct http_state
 {
-    char response[11500];
+    char response[12000];
     size_t len;
     size_t sent;
 };
