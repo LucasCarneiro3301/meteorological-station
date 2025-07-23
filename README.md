@@ -18,7 +18,7 @@ __Para este trabalho, os seguintes componentes e ferramentas se fazem necessári
 10) ATH10
 11) Extensor i2c
 
-__O resultado do projeto pode ser assistido através deste link: [Vídeo de Apresentação](https://youtu.be/WnFsIlx2fj0).__
+__O resultado do projeto pode ser assistido através deste link: [Vídeo de Apresentação](https://youtu.be/wSOdHNxdn6Y).__
 
 ## Instruções de Uso
 
